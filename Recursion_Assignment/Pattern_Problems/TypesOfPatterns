@@ -1,0 +1,23 @@
+/*
+ * Types of Patterns:
+ * 1.Star Square Pattern
+ * 2.Hollow Square Pattern
+ * 3.Left Pyramid Pattern
+ * 4.Inverted Half Pyramid Pattern
+ * 5.Mirror Inverted Half Pyramid Pattern
+ * 6.Mirror Left Pyramid Pattern 
+ * 7.Pyramid Pattern
+ * 8.Odd Star Pyramid Pattern
+ * 9. Full Pyramid Pattern
+ * 10.Diagonal Line Pattern
+ * 11.Cross Diagonal Line Pattern
+ * 12. Right Pascal Pattern
+ * 13.Left Pascal Pattern
+ * 14.Number char Patterns
+ * 15. Inverted Pyramid Star Pattern
+ * 16. Hollow Inverted Pyramid Star Pattern
+ * 17.Hollow Diamond Star Pattern
+ * 18. Left Arrow and Right Arrow Star Pattern
+ * 19.Heart Star Pattern with Name
+ * 20.Number Right and Left Triangle Pattern
+ */
